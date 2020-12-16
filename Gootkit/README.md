@@ -1,6 +1,6 @@
 # Gootkit
 
-Gootkit is a fileless malware that has been heavily targetting Germany in 2020. Gootkit stores its DLLs inside the Windows Registry from which they can be extracted.
+Gootkit is a fileless malware that has been heavily targeting Germany in 2020. Gootkit stores its DLLs inside the Windows Registry from which they can be extracted.
 
 ## Recipe input
 
