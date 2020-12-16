@@ -46,7 +46,7 @@ Use another recipe:
 [{"op":"Strings","args":["16-bit littleendian",4,"All printable chars (A)",false]},{"op":"Decode text","args":["UTF-16LE (1200)"]},{"op":"Regular expression","args":["User defined","[a-zA-Z0-9+/=]{30,}",true,true,false,false,false,false,"List matches"]},{"op":"From Base64","args":["A-Za-z0-9+/=",true]}]
 ```
 
-Again, this will lead to a DLL:
+Again, baking will lead to a DLL:
 - https://www.virustotal.com/gui/file/60aef1b657e6c701f88fc1af6f56f93727a8f4af2d1001ddfa23e016258e333f/detection
 - https://app.any.run/tasks/5cb84067-ea53-4eee-8093-cbccb93d011a/
 
