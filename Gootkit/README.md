@@ -4,7 +4,7 @@ Gootkit is a fileless malware that has been heavily targeting Germany in 2020. G
 
 ## Recipe input
 
-This recipe takes as input a Registry Key from an infected system as exported by, e.g., ```regedit```. In the following example that would be the file ```acfbbcbefecadce.reg``` which looks something like:
+This recipe takes as input a Registry Key from an infected system as exported by, e.g., ```regedit```. In the following example that would be the file ```acfbbcbefecadce.reg``` (available for download above) which looks something like:
 
 ```
 Windows Registry Editor Version 5.00
